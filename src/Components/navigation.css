@@ -1,0 +1,26 @@
+/* .brand-name{
+    font-family: 'Pacifico', cursive;
+}
+
+.imgcontainer {
+    text-align: center;
+    margin: 0 ;
+    padding:0;
+  } */
+
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.7rem 2rem;
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+    top: 0;
+    opacity: 0.9;
+  }
+
+   /* .navbar ul {
+    display: flex;
+  }
+   */

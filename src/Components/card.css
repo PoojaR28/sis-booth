@@ -1,0 +1,38 @@
+
+body {
+    font-family: 'Raleway', sans-serif;
+    font-size: 1rem;
+    line-height: 1.6;
+    background-color: #fff;
+    color: #333;
+  }
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+
+.container-fluid {
+   
+    padding: 0 2rem;
+    margin-top: 4rem;
+    margin-bottom: 3rem;
+  }
+  .large {
+    font-size: 3rem;
+    line-height: 1.2;
+    margin-bottom: 1rem;
+    color: #007bff;
+    text-align: center;
+    margin-top: 2rem;
+  }
+
+  .lead {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    text-align: center;
+    color: #38a1f3;
+
+  }
+  

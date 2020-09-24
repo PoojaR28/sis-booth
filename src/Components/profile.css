@@ -1,0 +1,58 @@
+   
+  .profile{
+      margin: 0;
+      padding: 0;
+  } 
+   
+   
+   .file{
+    width: 275px;
+}
+
+.profile-img{
+    width:30%;
+}
+
+.edit{
+    width:50%;
+    height: 20%;
+}
+
+.links{
+    line-height: 2rem;
+}
+
+.profile-work{
+   margin-top: 10%;
+}
+
+.profile-head{
+    line-height: 1rem;
+    background-color:  #5bc0de;
+}
+
+.welcome{
+    line-height: 2rem;
+    margin:10px;
+}
+
+.tab-content{
+    background-color:#f7f7f7
+}
+
+a{
+    color: #5a3f37;
+
+}
+
+a:active {
+    color: blue;
+  }
+
+.add{
+    background-color: #d9534f;
+}
+
+.row{
+    margin-top: 1rem;
+}
